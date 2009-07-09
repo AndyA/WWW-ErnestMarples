@@ -13,11 +13,11 @@ WWW::ErnestMarples - Interface to the ernestmarples.com UK postcode lookup API
 
 =head1 VERSION
 
-This document describes WWW::ErnestMarples version 0.01
+This document describes WWW::ErnestMarples version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use constant SERVICE => 'http://ernestmarples.com/';
 
